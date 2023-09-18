@@ -1,2 +1,5 @@
-# ICT-3500-1-
-# Week 1 Individual Project
+# ICT-3500-1-INDIVIUAL
+
+### ORGANIZATION OF FOLDERS
+I have organized each weeks projects into folder directories
+for the finished project for the week.
